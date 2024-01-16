@@ -1,0 +1,5 @@
+
+npx jest ./tests/testfile_name.js
+
+Command to copy directly-
+npx jest ./tests/

@@ -3,3 +3,13 @@ npx jest ./tests/testfile_name.js
 
 Command to copy directly-
 npx jest ./tests/
+
+In case if you need to run the server everytime you save the code
+
+Use : || npx nodemon fileName.js ||   in place of  || node fileName.js||
+
+
+
+PostgresSQL: postgresql://shivam.jha.2712:Hrg9R1lGuphQ@ep-green-king-a5sd93l3.us-east-2.aws.neon.tech/test?sslmode=require
+
+MongoDb Compass: mongodb+srv://shivamjha2712:Shivam@2712@cluster0.nmuaijt.mongodb.net/
